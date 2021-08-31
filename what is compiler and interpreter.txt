@@ -1,0 +1,10 @@
+Compiler
+Compiler, computer software that compiles source code written in a high-level language like
+java, into a set of machine-language instructions that can be understood by the CPU of a digital
+computer. Compilers are very large programs, with error-checking and other capabilities.
+
+Interpreter
+An interpreter executes instructions written in a programming or scripting language without
+converting them into object code or machine code beforehand. Examples of interpreted
+languages are Perl, Python. For interpreted programs, the source code is needed every time the
+program is run
